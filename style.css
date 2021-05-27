@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: url('./img/wp7237387\ \(1\).jpg');
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wrapper {
+    background: white;
+    min-width: 350px;
+    min-height: 60vh;
+    padding: 2rem;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+}
+
+.wrapper .logo{
+    max-width: 40px;
+    display: flex;
+    margin-bottom: 15px;
+    margin-left: 125px;
+    margin-bottom: 1.5rem;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-field {
+    position: relative;
+    margin-bottom: 0.5rem;
+}
+
+.input-field input {
+    height: 2rem;
+    padding: 0.5rem;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.continue input{
+    height: 2rem;
+    margin: 1rem;
+    width: 90%;
+    align-items: center;
+    justify-content: center;
+    background: rgb(104, 2, 2);
+    color: white;
+    border-radius: 6px;
+    border-color: rgb(104, 2, 2);
+    font-size: 1rem;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+}
+
+.footer span {
+    color: gray;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.footer .social-medias {
+    padding: 0.5rem;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    width: 100%;
+    margin-top: 0.2rem;
+}
+
+.footer .social-medias a i {
+    margin: 0 0.5rem;
+    width: 15px;
+}
+
+.footer .social-medias a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer .social-medias.facebook {
+    background: #dfc89a;
+}
+
+.footer .social-medias.google {
+    background: #dfc89a;
+}
