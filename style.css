@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url('./img/wp7237387\ \(1\).jpg');
+    background-image: linear-gradient(rgba(48, 48, 48, 0.679),rgba(48, 48, 48, 0.679)),url('./img/4013645.jpg');
     min-height: 100vh;
     min-width: 100vw;
     display: flex;
