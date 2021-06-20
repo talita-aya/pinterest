@@ -51,8 +51,8 @@ form {
 
 .continue input{
     height: 2rem;
-    margin: 1rem;
-    width: 90%;
+    margin-top: 1rem;
+    width: 100%;
     align-items: center;
     justify-content: center;
     background: rgb(104, 2, 2);
