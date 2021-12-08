@@ -1,4 +1,3 @@
-# pinterest
-like a pinterest login page (en)
+# Pinterest
 
-parecido com a página inicial do pinterest (pt-br)
+The Pinterest Login Page but in my own design and and color palette choice.
